@@ -1,0 +1,46 @@
+rows: 45 columns: 75 teleporters: 8 density: 40 monsters: 10
+X  XX          X   X  X   X X  XXXXXX  X XXX     XX XX  XXX    X    X X   X
+    X XX   X  X     XX  XX XXXX  XX X     X    XX  X XXX X   XXXX X  X  X X
+XXXX   XX X X  X      X X     XXX          XX  X  X X XXX   X XX XXX XXX  X
+      XXX X  X      X     X X  X       XX XX   XX X    X  X      X   XXX  X
+ X XX  XX  X    X X  XXXX  XX  X   XXX  XX    X    X       X X  X X        
+XXX X X     X    XX     X X X    X XX XX XXX XX    X   50X XXX X XXXX    XX
+X     XXX   XX   X X XX  X X    XXX   X XX   X  XXXXXX   X   X  X  XXXX  X 
+  XXX  XXXXX XX   XXX X XXXX X  X   XX X     XXXXXX X   XXX   X  X  XX    X
+X X 3 X  XXXXXX   X XX 6 X   X XX XXXX     X XX      X XXX  XX   X XXXXX  X
+1         XX  XXXX  X    X   X      XX X   X XX X X      X XXXX  X XO X X X
+XXX      XX   X X XX  X XX X XX XX  XXXX   X XX X  X   XX  X X  XXX XXX    
+  XX X XX XX X           XXX   XX    XX  XXXXXX X XX  XX   XX   XX     XX  
+X        X   X  XX XX  XX X X  XX X XX X     X      X X    X X X  X        
+X  XX XX    X  X   XX       XX   XXX      X  XX  XX  XXX  X   X X XX     XX
+  X  X X   XX        X   XX    XX  XX  XX     X    X   XX X    X    X      
+X  X  X  X XX  XXX   X X X         X X    X    X X  X   X  X X  XX  XXX X  
+XXX    X   XX X XX  X X XXXX  X    X  XX   XX   X      XX XX      X    XX  
+ X    XX       X       XXX XXX X XX  XXX X XX  X  X     XX XXX XX     XX  X
+XX   X XX  XX XX X XX  X X   X   X X   X  XXX X X X   X X X  X X      X    
+      XX      X X  XXX  X   X       XX X  XX  X XX X      X  X X     X XX  
+      X    X  X    X  X XXXX   XXXXXXXX  X X X  X  X XXX X   X     X  X    
+XX XX  1  XX X X  XX  XXX   XX XXXXXX  XX   XX   X       X XXXXXXXX   X   X
+X XX X    X X XXX X X XX XXXX X   X    XX  X  XXX  X    XXX XX XXX X   XXX 
+X XXXX   X  XX      X    XX X  X  X   X XX   X   XXX      XX  X  X XXX  X  
+X    XX    X  XX  X  X X X  XXX XX XXX X  X   X XXX X      X X  X    X X X 
+XX XXX  X XX  X   X  X 7  X 0  XX XX XX XX X                XX    X X     X
+XXXX   X      XX X      XXX       XX XX XX     XXX  X X X X XXXXXX XX  XX  
+  X X      X  X   X X XXX   X      XX XXXXX X    XXXX        X X          X
+ XXXXX   X   X XX X XXX   XX    X   X  X   XX XX   X   XX    X  X  XX     X
+ XXXX  X X X    X X    X XX  X XX X    XX     XX   X XXX X  X  XX XX   XX X
+      X   X X  XX  X  X X        X  X X   XX    XXX 4    XX     X    X  X  
+   XXX X XX  X   XXXXX  XX    XX  X X XX X XXX XX X  X   X   X    XX   XX  
+   X    X     XXX  X X  X   XX X  XX    XXXXX 4X X X     X XXXXXXX  X X  XX
+       XX    X  XX         X    XXX X X  X  XXXX    X          X X     X   
+     XX  X     X     XX     X   2 X  X XX X XXXXXX X       X      X  XX X  
+XXX X  XX XX     XXX XX    XXX    X X  XX X  X     X     X XX  XXX   X X  X
+   X7  X X  XX XXX  X  XX  XXX X  X       X    X  X  XX X  X    X XX X X  X
+ XX     X X XX X    XX    XXX  X X     X X  XX XXX  XX    XXXXX XX  XX X   
+  X XXX XX  X  X  X   XXX  X X  X X           X X      X  X XX X  X XX    X
+X XXX X     X XXX   6XX   X        X  XX X X     XX X X XX X  X  X  X      
+   X  X  XXXXX  X  X   X X   XXXX5   X XX    X X X XX   X  X 3 XX     X X X
+X   XXXX X X  X  X   XX  XX     XX     X  XXXXX   X  XXXXX X X   XX  X   X 
+XX  X   XX X    X X2 X XXXX   X  XX  XX   X X X  X X XXXX  XXXX  X  X X  X 
+      X        XXXX     X  XX XXX   X  X     X  X X X XXX  X X X XX  X  X X
+ X X X XX XX  XX  X  X  X     XX  X         X      X    X      X X  X  XX  
